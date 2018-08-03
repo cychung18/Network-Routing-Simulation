@@ -6,14 +6,8 @@ Routesim
 
 Simple event-driven simulator for link-state and distance vector routing.
 
-(c) 2003 Peter A. Dinda
 
-PREREQUISITES
-
-Graphviz (including the dotty commandline tool).
-
-QUICK START INSTRUCTIONS:
-
+# QUICK START INSTRUCTIONS:
 $ touch .dependencies
 $ make depend
 $ make TYPE=GENERIC
