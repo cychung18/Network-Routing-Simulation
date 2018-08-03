@@ -6,8 +6,11 @@ Simple event-driven simulator for link-state and distance vector routing.
 
 ## QUICK START INSTRUCTIONS:
 $ touch .dependencies
+
 $ make depend
+
 $ make TYPE=GENERIC
+
 $ ./routesim demo.topo demo.event
 
 GENERATING SIMULATION TOPOLOGIES
