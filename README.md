@@ -2,12 +2,12 @@
 EECS-340 Routing Simulation project, by Prof. Peter Dinda.
 
 
-Routesim
+## Routesim
 
 Simple event-driven simulator for link-state and distance vector routing.
 
 
-# QUICK START INSTRUCTIONS:
+## QUICK START INSTRUCTIONS:
 $ touch .dependencies
 $ make depend
 $ make TYPE=GENERIC
