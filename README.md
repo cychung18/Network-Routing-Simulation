@@ -1,9 +1,5 @@
 # Network-Routing-Simulation
 EECS-340 Routing Simulation project, by Prof. Peter Dinda.
-
-
-## Routesim
-
 Simple event-driven simulator for link-state and distance vector routing.
 
 
