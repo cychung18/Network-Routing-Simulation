@@ -5,14 +5,15 @@ Simple event-driven simulator for link-state and distance vector routing.
 
 
 ## QUICK START INSTRUCTIONS:
-$ touch .dependencies \\
+$ touch .dependencies
+
 $ make depend
 
 $ make TYPE=GENERIC
 
 $ ./routesim demo.topo demo.event
 
-GENERATING SIMULATION TOPOLOGIES
+### GENERATING SIMULATION TOPOLOGIES
 
 The generate_simulation.py script can be used to generate random networks for
 testing.
